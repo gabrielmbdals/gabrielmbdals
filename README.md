@@ -4,19 +4,15 @@ Sou engenheiro de software. Atualmente estou trabalhando com microsserviços RES
 
 #### Ferramentas atuais :toolbox:
 - Java, Kotlin.
-- Tomcat, JBoss, Weblogic.
-- Oracle Database, PostgreeSql, SQLServer, MySql, Redis, H2DB.
-- REST/RESTFul.
+- Oracle Database, PostgreeSql, MySql, Redis.
 - Spring(Boot, Web, Data JPA, Security, others).
 - Kafka, RabbitMQ.
-- Maven, Gradle.
-- GIT.
+- Gradle.
 - Database Migrations with Flyway Migration.
 - JUnit, Mockito.
 - Terraform.
 - New Relic.
 - Jenkins.
-- JPA (Hibernate, Spring Data).
 - Docker, Docker Compose.
 
 #### 💬 Encontre-me em outro lugar 
