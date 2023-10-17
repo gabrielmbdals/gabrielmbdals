@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá, Eu sou o Gabriel Morais Barbosa 👋
 
-<!--
-**gabrielmbdals/gabrielmbdals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou engenheiro de software. Atualmente estou trabalhando com microsserviços REST/Restful.
 
-Here are some ideas to get you started:
+#### Ferramentas atuais:
+- Java, Kotlin.
+- Tomcat, JBoss, Weblogic.
+- Oracle Database, PostgreeSql, SQLServer, MySql, Redis, H2DB.
+- REST/RESTFul.
+- Spring(Boot, Web, Data JPA, Security, others).
+- Kafka, RabbitMQ.
+- Maven, Gradle.
+- GIT.
+- Database Migrations with Flyway Migration.
+- JUnit, Mockito.
+- Terraform.
+- New Relic.
+- Jenkins.
+- JPA (Hibernate, Spring Data).
+- Docker, Docker Compose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💬 Encontre-me em outro lugar
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-morais-barbosa-042643116/)](https://www.linkedin.com/in/gabriel-morais-barbosa-042643116/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielmbdals@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmbdals@gmail.com)](mailto:gabrielmbdals@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielmbdals/)](https://www.instagram.com/gabrielmbdals/)
